@@ -1,0 +1,3 @@
+# oracle_blog_spider
+
+抓取全球oracle大师们的博客文章，转成txt及kindle格式供线下阅读
